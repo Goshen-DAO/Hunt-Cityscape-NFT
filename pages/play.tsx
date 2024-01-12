@@ -142,7 +142,7 @@ const Play: NextPage = () => {
         textAlign="right" // Align the content to the right
       >
         <Text fontSize="small" fontWeight="bold">
-          $BLCRSTL Balance:
+          $HSHRDS Balance:
         </Text>
         {rewardBalance && (
           <Text>

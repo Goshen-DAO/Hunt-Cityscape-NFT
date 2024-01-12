@@ -119,7 +119,7 @@ export const Equipped = (props: EquippedProps) => {
                 </Web3Button>
               
 
-                <b><Text>Claimable $BLCRSTL:</Text></b>
+                <b><Text>Claimable $HSHRDS:</Text></b>
                 <Text>{ethers.utils.formatUnits(claimableRewards[1], 18)}</Text>
                 <Web3Button
                   contractAddress={STAKING_ADDRESS}
