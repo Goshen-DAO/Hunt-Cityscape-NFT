@@ -19,7 +19,7 @@ const DynamicButton = dynamic(
 
 const DiscordButton = () => (
   <a
-    href="https://discord.gg/48yUEUdTVz"
+    href="https://discord.gg/hunt-town"
     target="_blank"
     rel="noopener noreferrer"
     style={{
