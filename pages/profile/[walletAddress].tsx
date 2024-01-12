@@ -28,10 +28,10 @@ function AccountPage() {
   // Replace tokenAddresses with an array of token addresses and symbols
   const tokens = [
     {
-      address: "0x561C94B23A63A71A4445f06445B98319cbdfaDB9",
-      symbol: "$BLCRSTL",
+      address: "0x8E7EA09028b4F385A44A3CeB6c1a372a52c0e897",
+      symbol: "$HSHRDS",
     },
-    { address: "0x5492477D2EB825867292483347685580c891627E", symbol: "$USDC" },
+    { address: "0x2791bca1f2de4661ed88a30c99a7a9449aa84174", symbol: "$USDC" },
   ];
 
   const tokenBalances = tokens.map((token) => {
